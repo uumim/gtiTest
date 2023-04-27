@@ -9,6 +9,8 @@
 </head>
 <body>
 	${msg}
+	<h3>깃 시작하기!</h3>
+	<p>1. 커밋 해 보기</p>
 </body>
 <script></script>
 </html>
